@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second message to Mr. Willam Lavd late Archbishop of Canterbury, now prisoner in the Tower in the behalfe of Mercurie. Together with a postscript to the author of that foolish and ridiculous answer to Mercury.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92816</idno>
+            <idno type="STC">Wing S2291</idno>
+            <idno type="STC">Thomason E169_9</idno>
+            <idno type="STC">ESTC R10234</idno>
+            <idno type="EEBO-CITATION">99858814</idno>
+            <idno type="PROQUEST">99858814</idno>
+            <idno type="VID">157024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157024)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E169[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second message to Mr. Willam Lavd late Archbishop of Canterbury, now prisoner in the Tower in the behalfe of Mercurie. Together with a postscript to the author of that foolish and ridiculous answer to Mercury.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>With an illustrated title page.</note>
+                  <note>Sometimes attributed to John Taylor.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Contains a reply to Herbert, Thomas.  An answer to the most envious, scandalous, and libellous pamphlet, entituled Mercuries message.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herbert, Thomas, 1597-1642? --  Answer to the most envious, scandalous, and libellous pamphlet, entituled Mercuries message.</term>
+               <term>Laud, William, 1573-1645 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157024:1"/>
+            <pb facs="tcp:157024:1" rendition="simple:additions"/>
+            <p>A Second Meſſage TO M<hi rend="sup">r</hi>. WILLIAM LAVD Late Archbiſhop of <hi>Canterbury,</hi> now priſoner in the Tower: <hi>In the behalfe of</hi> MERCURIE.</p>
+            <p>Together With a Poſtſcript to the Author of that fooliſh and ridiculous Anſwer to MERCURY.</p>
+            <figure>
+               <figDesc>depiction of William Laud, Archbishop of Canterbury</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:157024:2"/>
+            <pb facs="tcp:157024:2"/>
+            <head>A Second <hi>Meſſage</hi> to his Grace a CANTERBURY.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <l>OF late a letter to your Grace was ſent;</l>
+            <l>Which now I hear gives you much diſcontent;</l>
+            <l>Your rage and fury waxed wondrous hot,</l>
+            <l>And would the author curb, but yet could not,</l>
+            <l>For want of power, which of late you had,</l>
+            <l>Which makes you grieve to ſee't, makes us ſo glad;</l>
+            <l>O could your lofty mind mount up againe,</l>
+            <l>You'd perſecute good Chriſtians amaine;</l>
+            <l>But ſtay my Lord, no thing ſo ſure as this,</l>
+            <l>
+               <hi>Laud</hi> muſt e're long the block or gibbet kiſſe:</l>
+            <l>Therefore in vaine it is for you to vex,</l>
+            <l>For'twill but more and more your mind perplex,</l>
+            <l>I'm ſure 'twas true that he writ to your grace</l>
+            <l>And I will juſtifie it to your face,</l>
+            <l>Nay all the world can juſtifie beſide,</l>
+            <l>That all is true, and you are not belide;</l>
+            <l>It may be you will ſay it was too tart,</l>
+            <l>Remembe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then that you made one man ſmart</l>
+            <l>With heavy puniſhment though'twas not he</l>
+            <l>That did offend againſt your majeſty,</l>
+            <l>For he along the fields ſimply did walke,</l>
+            <l>And with the Prentices he ne're did talke,</l>
+            <pb facs="tcp:157024:3"/>
+            <l> And yet you cauſed the poore man loſe his life</l>
+            <l>As tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh he had bin cauſer of that ſtrife;</l>
+            <l>What though he were, did he deſerve ſuch death,</l>
+            <l>As to have ſtopt the paſſage of his breath?</l>
+            <l>Nay more then this which grieves me to relate,</l>
+            <l>He quartered was, and hanged at each gate:</l>
+            <l>Well'twas my Lord unjuſtly done I'm ſure,</l>
+            <l>And therefore fit you ſomething ſhould indure;</l>
+            <l>Then be not angry at the words we write,</l>
+            <l>When from the darke we bring you to the light,</l>
+            <l>For all this while in darkneſſe you liv'd in,</l>
+            <l>But in th'light you'd walkt it had better bin,</l>
+            <l>And then you might in State have lived ſtill,</l>
+            <l>But ſelfe to ruine brought by doing ill;</l>
+            <l>Perchance you'le not confeſſe, but ſay'tis no</l>
+            <l>Such matter as we do againſt you ſhew,</l>
+            <l>But that you thinke your crimes wee'l aggravate,</l>
+            <l>Becauſe ſo ſuddenly your pul'd from State;</l>
+            <l>Alas'twas time that you from State ſhould fall!</l>
+            <l>For elſe you would have brought us under thrall:</l>
+            <l>I dare be bold to ſay, yout hought e're now,</l>
+            <l>To make all England to your altars bow,</l>
+            <l>You tooke a ſpeedy courſe, yea that's moſt true,</l>
+            <l>And alwaies favour'd that moſt wicked crew,</l>
+            <l>I meane the Papiſts who have ever ſought,</l>
+            <l>With wicked plots to bring our land to nought;</l>
+            <l>But they nor all the wicked pangs in hell,</l>
+            <l>Our bleſſed Goſpell ever ſhall expell;</l>
+            <l>For now you ſee to nought their plots God bring</l>
+            <l>That they ne're can accompliſh any thing.</l>
+            <pb facs="tcp:157024:3"/>
+            <l> For God above who ſits an eyes them all,</l>
+            <l>Even at the utmoſt time, makes them to fall.</l>
+            <l>For when they'ave gotten to the height of pride,</l>
+            <l>Unlikely 'tis that they ſhould long abide,</l>
+            <l>For at the laſt they ever tumble downe</l>
+            <l>To'th ground, with all their honour and renown,</l>
+            <l>Examples far I need not goe to ſhew,</l>
+            <l>Your ſelfe is one, and others of your crew,</l>
+            <l>But for all this perhaps you ſtill will ſay,</l>
+            <l>You aim'd at Englands good when you bore ſway,</l>
+            <l>But'tis not true my Lord I will avoucht</l>
+            <l>For then to altars you had never croucht,</l>
+            <l>Nor had you bow'd then unto Jeſus name,</l>
+            <l>In outward adoration of the ſame;</l>
+            <l>Whenas that all our beſt and godli'ſt men,</l>
+            <l>This outward adoration doe condemne,</l>
+            <l>Nor had you then ſo wickedly abuſ'd,</l>
+            <l>Such godly men as pious preaching uſ'd:</l>
+            <l>Well then my Lord here convict of ſin</l>
+            <l>For you have done moſt wickedly therein</l>
+            <l>And all your deeds continually were evill,</l>
+            <l>Which ſavour'd not of God but of the devill,</l>
+            <l>Whoſe ſlave yo've bin this many years I'm fraid,</l>
+            <l>And wickedly his banners have diſplaid;</l>
+            <l>Now to requite your paines, he you hath brought</l>
+            <l>Unto that woe that you would ne're have thought,</l>
+            <l>For if three years ago one had told you</l>
+            <l>That you muſt fall and all your wicked crew,</l>
+            <l>Tuſh, tuſh, you'd ſay I will not it beleeve,</l>
+            <l>That till I die, mine honour I ſhall leave:</l>
+            <pb facs="tcp:157024:4"/>
+            <l> But now you ſee your honour you have loſt,</l>
+            <l>And of your wicked projects you are croſt:</l>
+            <l>Well then, My Lord, your miſery lament,</l>
+            <l>And God of's mercy grant you may repent.</l>
+         </div>
+         <div type="poem">
+            <head>A POSTSCRIPT TO <hi>THOMAS HERBERT,</hi> Author of that fooliſh and Ridiculous anſwer to <hi>Mercu<g ref="char:EOLhyphen"/>ries</hi> Meſſage.</head>
+            <l>HOw now what's this laid open to our view,</l>
+            <l>Some fooliſh Pamphlet of the Popiſh crew?</l>
+            <l>But is't no worſe, I'm ſure it is no better,</l>
+            <l>The Titles call'd an Anſwer to a Letter,</l>
+            <l>Wherein the Author does his venome ſpit,</l>
+            <l>And proves himſelfe, diſſembling Hypocrit;</l>
+            <l>Hypocriſie he often does relate,</l>
+            <l>But to his ſhame, I ſpeak't, 'tis his owne ſtate,</l>
+            <l>For right, for wrong, for any thing heel be,</l>
+            <l>For truth, for error, or Hypocriſie;</l>
+            <l>His wits he alwaies bends for to deviſe</l>
+            <l>Some wicked thing that's nothing elſe but lyes:</l>
+            <l>Mark and behold his Hypocriticke ſtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine,</l>
+            <l>How he does fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter the bad and good diſdaine,</l>
+            <l>When he begins at firſt he ſtands am<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z'd</l>
+            <l>But preſently his lying muſe he raz'd,</l>
+            <l>And firſt the Scriptures to his owne ends reſts,</l>
+            <l>And counts that worſt, which all men counteth beſt,</l>
+            <pb facs="tcp:157024:4"/>
+            <l> Namely, at the Name of Ieſu we ſhould bow,</l>
+            <l>Does not ſaies he the Scripture it allow,</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men of better judgement then his grace,</l>
+            <l>D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpound ſuch meaning or that place:</l>
+            <l>B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nowadaies the Scriptures much abus'd,</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very boy that here before it us'd.</l>
+            <l>N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after that he talkes of ten p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und bribe,</l>
+            <l>W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch he for want of that was c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us'd to ſcribe</l>
+            <l>B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lads and Bookes for that is all his trade,</l>
+            <l>And 'mongſt the reſt of late this anſwer m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de:</l>
+            <l>But it matters no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for no man tooke it well,</l>
+            <l>But c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d 'twas a wicked deede of hell,</l>
+            <l>And for the ſhort hair'd crew which he counts ill,</l>
+            <l>It not deceiv'd, the ſame's his Maſter <hi>WILL:</hi>
+            </l>
+            <l>And for his part, we know him very well,</l>
+            <l>His long ſhag'd lockes, and tatter'd coat him tell,</l>
+            <l>F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>putation he can have no more,</l>
+            <l>H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e's run ſo deepely in the Chandlers ſcore,</l>
+            <l>And thoſe ſociats with whom he is partaker,</l>
+            <l>A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſt they are but wretched b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llad makers.</l>
+            <l>Indeed <hi>Tom Herbert</hi> he did wondrous well,</l>
+            <l>That at the latter end his name did tell,</l>
+            <l>For now tis told <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>broad that he did write</l>
+            <l>An anſwer to a Letter out of ſpite:</l>
+            <l>What has he got for this his wicked deed,</l>
+            <l>But loſt his name for want of taking heed,</l>
+            <l>For <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot a bad words in't that Author writ,</l>
+            <l>But he does know he hath deſerved it.</l>
+            <l>And now my lines Ile leave to all mens view,</l>
+            <l>My Muſe ſhall ceaſe, but heel be paid his due.</l>
+            <pb facs="tcp:157024:5"/>
+            <l> The Authors Anſwer will come forth ere long,</l>
+            <l>And cut and flaſh him deepe, but wont him wrong,</l>
+            <l>Heel ſpeake the truth, and ſtop his mouth for ever,</l>
+            <l>That he it anſwer cant, with's beſt endeavour;</l>
+            <l>But if he doe, I know 'twill be ſo lame,</l>
+            <l>That no wiſe man will read it ore for ſhame,</l>
+            <l>My Muſe to write of thee againe ſhall reſt,</l>
+            <l>Mine owne, not yours, for ſo I hold it beſt</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
